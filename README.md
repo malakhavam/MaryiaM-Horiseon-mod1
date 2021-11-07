@@ -11,7 +11,7 @@ Starter code was refactored to meet customer's requirements of accesability and 
 HTML
 CSS
 
-![Mockup-image](./assets/images/01-html-css-git-homework-demo)
+![Mockup-image](./assets/images/mockup.png)
 
 ## Website link
 
