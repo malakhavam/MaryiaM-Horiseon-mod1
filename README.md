@@ -8,9 +8,10 @@ This project is a website for marketing company named Horiseon
 Starter code was refactored to meet customer's requirements of accesability and optimization for search engines
 
 ## Done with
-HTML
-CSS
+* HTML <br/>
+* CSS
 
+## Mockup image <br/>
 ![Mockup-image](./assets/images/mockup.png)
 
 ## Website link
